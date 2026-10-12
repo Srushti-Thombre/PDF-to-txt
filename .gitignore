@@ -1,0 +1,10 @@
+# Ignore all text, PDF, JSON files
+*.txt
+*.pdf
+*.json
+
+# Ignore environment files
+.env
+
+# But DO include requirements.txt
+!requirements.txt
